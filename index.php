@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="fr">
 
@@ -7,10 +8,11 @@
   <title>Yekima Art</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
+    
 
   <!-- Favicons -->
-  <link href="assets/img/LOgo2 - Copie.png" rel="icon">
-  <link href="assets/img/LOgo2.png" rel="apple-touch-icon">
+  <link href="assets/img/YEKIMA%20LOGO%20copie.png" rel="icon">
+  <link href="assets/img/YEKIMA%20LOGO%20copie.png" rel="apple-touch-icon">
 
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com" rel="preconnect">
@@ -37,6 +39,7 @@
 </head>
 
 <body class="index-page">
+    
 
   <header id="header" class="header d-flex align-items-center fixed-top">
     <div class="container-fluid container-xl position-relative d-flex align-items-center">
@@ -44,7 +47,13 @@
       <a href="index.html" class="logo d-flex align-items-center me-auto">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="assets/img/logo.png" alt=""> -->
-        <h1 class="sitename">Yekima De BelArt</h1>
+        <div class="col-xl-3 col-lg-2">
+        <div class="logo">
+            <a href="index.php">
+         <img src="assets/img/YEKIMA LOGO copie.png" alt="">
+                                    </a>
+                                </div>
+                            </div>
       </a>
 
       <nav id="navmenu" class="navmenu">
@@ -60,7 +69,7 @@
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
 
-      <a class="cta-btn" href="index.html#about">A propos</a>
+      <a class="cta-btn"  href="https://drive.google.com/file/d/1Px8jHlKhAxRWI7DOsv1m0jxuLerajBbP/view?usp=sharing">Yekima PDF</a>
 
     </div>
   </header>
@@ -72,8 +81,8 @@
 
       <img src="assets/img/YEKIMA2.jpg" alt="" data-aos="fade-in">
 
-      <div class="container d-flex flex-column align-items-center"><h2 data-aos="fade-up" data-aos-delay="100">Yekima De BeL Art.</h2>
-        <p data-aos="fade-up" data-aos-delay="200">Soldat du Slam</p>
+      <div class="container d-flex flex-column align-items-center"><h2 data-aos="fade-up" data-aos-delay="100" style= "font-family: gobold">Yekima De BeL Art.</h2>
+        <p data-aos="fade-up" data-aos-delay="200" style= "font-family: gobold">Soldat du Slam</p>
         <div class="d-flex mt-4" data-aos="fade-up" data-aos-delay="300">
           <a href="https://www.youtube.com/channel/UCJ6fWceozjpwCAZ1-bm9AaA"><i class="bi bi-play-circle"></i><span>YouTube</span></a>
         </div>
@@ -89,52 +98,40 @@
 
         <div class="row gy-4">
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-            <h3>Biographie</h3>
+            <h3 style= "font-family: gobold"  class="fst-gras">BIOGRAPHIE</h3>
               
-            <p style="text-align: justify">YEKIMA De Bel Art, né Mélo Costa Yekima, à Kinshasa, est un artiste poète et chanteur
-Congolais. Il est auteur – compositeur, interprète, producteur, parolier et créateur du Style
-AFROSLAM, un mélange de l‘oralité avec des rythmes afro-congolais ouverts. En République
-Démocratique du Congo, YEKIMA est porte-étendard du mouvement Slam-Poésie urbaine
-dont il est l’un des pionniers en Afrique francophone. Il fait partie de ces rares artistes qui savent
-imposer leur style et forcer le respect dans le milieu. On le surnomme Son Excellence Monsieur
-le Poésident, YEkING, Soldat du Slam… </p>
+<p style="text-align: justify; font-family: Mongolian Baiti; font-size: 20px" >De son vrai nom Mélo Costa Yekima, Yekima De Bel Art est titulaire d’un diplôme en économie appliquée à la gestion commerciale de l’Université de Kinshasa en République démocratique du Congo. Il poursuit en parallèle une activité artistique qu’il ancre dans une double vocation : poétique et sociale. </p>
+<p style="text-align: justify; font-family: Mongolian Baiti; font-size: 20px" > Son parcours s’accompagne aussi d’initiatives en faveur de la jeunesse et de la diffusion du 
+slam en République démocratique du Congo et en Afrique, dans une perspective à la fois artistique, éducative et d’éveil des consciences.</p><ul>
 
-<p style="text-align: justify">Engagé, il l’est politiquement aussi, ne se privant pas d’écrire sur les élections par exemple
-avec son titre « KABILA2-FATSHI » ou son texte « PLACE MUKWEGE » hommage aux
-femmes violées que répare le prix Nobel de la paix Dr. Denis MUKWEGE ou encore le titre
-« 450=1 BOMOKO », afin de s’unir contre le tribalisme et pour le vivre ensemble.
-YEKIMA c’est aussi une identité visuelle distinguable par son look vestimentaire particulier et
-quasi-personnalisé, en grande partie fait des pagnes, d’où ses surnoms de Monsieur PAGNE et
-le PAGNIFICATEUR.</p>
-<img src="assets/img/YEKIMABIO.jpg" class="img-fluid rounded-4 mb-4" alt="">
+              </ul>
+<h3 style= "font-family: Qagetto; font-size: 35px"  class="fst-gras"> Jeunesse et débuts</h3>
+<p style="text-align: justify; font-family: Mongolian Baiti; font-size: 20px">Yekima De Bel Art est né à Kinshasa. Il grandit dans une famille de sept enfants et passe une 
+partie de son enfance auprès de ses grands-mères, qui lui transmettent le goût de l’oralité à 
+travers les contes et chants traditionnels.</p>
+<p style="text-align: justify; font-family: Mongolian Baiti; font-size: 20px" > Il est également influencé par la musique populaire zaïroise et congolaise, notamment Tabu Ley Rochereau, Franco Luambo, Wendo Kolosoy, Zaïko Langa Langa et Wenge Musica.</p>
+<p style="text-align: justify; font-family: Mongolian Baiti; font-size: 20px" > Son intérêt pour le slam naît lorsqu’il découvre les monologues narratifs de la série américaine Desperate Housewives, puis les œuvres d’Abd Al Malik et Grand Corps Malade.</p>     
+
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="250">
             <div class="content ps-0 ps-lg-5">
               <p class="fst-italic">
               </p>
               <ul>
-                <li><i class="bi bi-check-circle-fill"></i> <span>Singularite!.
+                <li><i class="bi bi-check-circle-fill"></i> <span> <h3 style= "font-family: Qagetto; font-size: 35px"  class="fst-gras"> Carrière musicale</h3>
                 
-<p style="text-align: justify">  À ses textes et sons se joignent des clips vidéo qui en effet sont de petits joyaux visuels,
-scénarisés et dirigés artistiquement par lui-même, toujours en quête effrénée du beau.
-Artisan du luxe comme le désignait le célèbre journaliste AMOBE MEVEGUE d’heureuse
-mémoire, Yekima, l’élégant gentleman que le stylo n’empêche de rester stylé, a une identité
-visuelle distinguable par son look vestimentaire particulier et quasi-personnalisé, en grande
-partie fait des pagnes, d’où les surnoms de Monsieur PAGNE et le PAGNIFICATEUR.</p>
+<p style="text-align: justify; font-family: Mongolian Baiti; font-size: 20px">
+Yekima commence à se produire sur scène dès 2008, développant un style qui mêle chant, 
+musique et narration poétique. Avant de s’orienter pleinement vers le slam, il avait d’abord 
+exploré la voie du chant et du rap. Deux ans après avoir découvert le slam en 2008, il crée en 
+2010 son premier groupe musical pour l’accompagner en tant que slameur. Cette formation 
+se produit pour la première fois le 8 décembre 2012 à l’Institut Français de Kinshasa, lors d’un 
+concert marquant un tournant dans son parcours.  </p>
+<p style="text-align: justify; font-family: Mongolian Baiti; font-size: 20px">
+En 2016, il se fait connaître avec Je te présente Kinshasa, un titre qui lui vaut le prix du Meilleur 
+Lyrics de l’année aux Mikanda Awards. Il enchaîne avec Les Années Zaïre, qui reçoit le prix du 
+Meilleur Clip Concept aux Bilily Awards.</p>
                     </span></li>
-<li><i class="bi bi-check-circle-fill"></i> 
-<span>Médias, collaborations et album. 
-<p style="text-align: justify">Plusieurs médias internationaux dont TV5 MONDE, France 24, le magazine britannique THE
-GUARDIAN, la VOA, AFRICA 24, RFI ainsi que d’autres le plébiscitent également à l’instar
-bien évidemment de grands médias locaux au Congo.</p>
-</span></li>
-<li><i class="bi bi-check-circle-fill"></i> 
-<span>SLAM. 
-<P style="text-align: justify">L’aventure avec le slam commence le jour où il découvre cette façon de poser des mots et des
-phasessur desfondssonores à traversles voix off de Mary Alice Young dansla série américaine
-Desperate Housewives. Lorsqu’il commence à pratiquer cela avec ses propres textes et
-instrumentales, il croit alors avoir créé un style. Mais son enthousiasme exaltant ne sera que de
-bien courte durée quand on lui apprendra que ça existe déjà et s’appelle du Slam.</P></span></li>
               </ul>
               <p>
               
@@ -158,14 +155,13 @@ bien courte durée quand on lui apprendra que ça existe déjà et s’appelle d
     <section id="services" class="services section">
 
       <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Evènement</h2>
-        <p>Live Concert<br></p>
+      <div class="container section-title"data-aos="fade-up">
+        <h2 style= "font-family: gobold">Evènement</h2>
+        <p style= "font-family: gobold">Live Concert<br></p>
       </div><!-- End Section Title -->
+      
 
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
-
-        <div class="row gy-5">
+        <div class="row gy-5" style="background-image: url(assets/img/even/YEKI13%20copie.jpg)" >
 
           <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
             <div class="service-item">
@@ -177,9 +173,9 @@ bien courte durée quand on lui apprendra que ça existe déjà et s’appelle d
                   <i class="bi bi-activity"></i>
                 </div>
                 <a href="service-details.html" class="stretched-link">
-                  <h3>Institut Français de Kinshasa</h3>
+                  <h3 style="text-align: left; font-family: Qagetto; font-size: 30px">Institut Français de Kinshasa</h3>
                 </a>
-                <p>Chantre du quotidien témoin de la vie sociale, Yekima a envie de combattre la laideur du désespoir par la beauté des couleurs. Pour ce faire, il a choisi se se présenter comme Monsieur Pagne, porteur, comme son nom l’indique, de toutes les vertus et toutes les caractéristiques de cette pièce d’étoffe très symbolique.</p>
+                <p style="font-family: Mongolian Baiti; font-size: 18px">Chantre du quotidien témoin de la vie sociale, Yekima a envie de combattre la laideur du désespoir par la beauté des couleurs. Pour ce faire, il a choisi se se présenter comme Monsieur Pagne, porteur, comme son nom l’indique, de toutes les vertus et toutes les caractéristiques de cette pièce d’étoffe très symbolique. </p>
               </div>
             </div>
           </div><!-- End Service Item -->
@@ -194,15 +190,15 @@ bien courte durée quand on lui apprendra que ça existe déjà et s’appelle d
                   <i class="bi bi-broadcast"></i>
                 </div>
                 <a href="https://www.youtube.com/watch?v=BcLvWMATRtg" class="stretched-link">
-                  <h3>la sensibilisation contre le Covid-19</h3>
+                  <h3 style="text-align: left; font-family: Qagetto; font-size: 30px">la sensibilisation contre le Covid-19</h3>
                 </a>
-                <p>L’annonce de sa production musicale a été relayée sur ses réseaux sociaux. À cette occasion, « Monsieur le Président », son surnom, invite tous les amoureux et amateurs du slam congolais à venir nombreux pour assister à sa prestation scénique.  (la chanson dédiée à la sensibilisation contre le Covid-19).</p>
+                <p style="font-family: Mongolian Baiti; font-size: 18px">L’annonce de sa production musicale a été relayée sur ses réseaux sociaux. À cette occasion, « Monsieur le Président », son surnom, invite tous les amoureux et amateurs du slam congolais à venir nombreux pour assister à sa prestation scénique.  (la chanson dédiée à la sensibilisation contre le Covid-19).</p>
               </div>
             </div>
           </div><!-- End Service Item -->
 
           <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
-            <div class="service-item">
+        <div class="service-item">
               <div class="img">
                 <img src="assets/img/YEKIMA6.jpg" class="img-fluid" alt="">
               </div>
@@ -211,9 +207,9 @@ bien courte durée quand on lui apprendra que ça existe déjà et s’appelle d
                   <i class="bi bi-easel"></i>
                 </div>
                 <a href="https://bfan.link/450-1" class="stretched-link">
-                  <h3>450 =1</h3>
+                  <h3 style="font-family: Qagetto; font-size: 30px">450 =1</h3>
                 </a>
-                <p>A la mémoire de toutes victimes de ces actes ignobles et pour l'unité du Congo,
+<p style="font-family: Mongolian Baiti; font-size: 18px">A la mémoire de toutes victimes de ces actes ignobles et pour l'unité du Congo,
 Il nous faut nous réveiller !
 Il nous faut rester en éveil !
 Si non le pays sera mis en veille...</p>
@@ -226,31 +222,91 @@ Si non le pays sera mis en veille...</p>
       </div>
 
     </section><!-- /Services Section -->
+     <!-- Clients Section -->
+    <section id="clients" class="clients section light-background">
 
-    <!-- Clients Section -->
-   
-    <!-- Features Section -->
+      <div class="container" data-aos="fade-up">
+
+        <div class="row gy-4">
+
+          <div class="col-xl-2 col-md-3 col-6 client-logo">
+            <img src="assets/img/clients/FRANCE.png" class="img-fluid" alt="">
+          </div><!-- End Client Item -->
+
+          <div class="col-xl-2 col-md-3 col-6 client-logo">
+            <img src="assets/img/clients/FRANCOPHONIE.png" class="img-fluid" alt="">
+          </div><!-- End Client Item -->
+
+          <div class="col-xl-2 col-md-3 col-6 client-logo">
+            <img src="assets/img/clients/IMG_7761.png" class="img-fluid" alt="">
+          </div><!-- End Client Item -->
+
+          <div class="col-xl-2 col-md-3 col-6 client-logo">
+            <img src="assets/img/clients/yeki gouv.png" class="img-fluid" alt="">
+          </div><!-- End Client Item -->
+
+          <div class="col-xl-2 col-md-3 col-6 client-logo">
+            <img src="assets/img/clients/Min cult.png" class="img-fluid" alt="">
+          </div><!-- End Client Item -->
+
+
+        </div>
+
+      </div>
+
+    </section><!-- /Clients Section -->
+     <!-- Features Section -->
     <section id="features" class="features section">
 
       <div class="container">
+
+        <ul class="nav nav-tabs row  d-flex" data-aos="fade-up" data-aos-delay="100">
+          <li class="nav-item col-3">
+            <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#features-tab-1">
+              <i class="bi bi-calendar"></i>
+              <h4 class="d-none d-lg-block" style="font-family: Mongolian Baiti; font-size: 20px">QUELQUES EVENEMENT</h4>
+            </a>
+          </li>
+          <li class="nav-item col-3">
+            <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-2">
+              <i class="bi bi-calendar"></i>
+              <h4 class="d-none d-lg-block" style="font-family: Mongolian Baiti; font-size: 20px">SUITE</h4>
+            </a>
+          </li>
+          <li class="nav-item col-3">
+            <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-3">
+              <i class="bi bi-"></i>
+              <h4 class="d-none d-lg-block" style="font-family: Mongolian Baiti; font-size: 20px">MES QUELQUES FESTIVALS</h4>
+            </a>
+          </li>
+          <li class="nav-item col-3">
+            <a class="nav-link" data-bs-toggle="tab" data-bs-target="#features-tab-4">
+              <i class="bi bi-festival"></i>
+              <h4 class="d-none d-lg-block" style="font-family: Mongolian Baiti; font-size: 20px">PROJETS CULTURELS</h4>
+            </a>
+          </li>
+        </ul><!-- End Tab Nav -->
 
         <div class="tab-content" data-aos="fade-up" data-aos-delay="200">
 
           <div class="tab-pane fade active show" id="features-tab-1">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                <h3>La musique et les textes portent la même valeur.</h3>
-                <p class="fst-italic"
-                    style="text-align: center">
-                   c’est le style proposé par Yekima de Bel art qu’il a surnommé Afro Slam..
-                </p>
-                <p style="text-align: justify">
-                    Revêtu d’une nouvelle casquette de « Monsieur Le Poésident », ce défenseur de l’oralité propose un nouveau projet « Kinshasa : Histoire des villes ». Entre la parole et la musique, entre les sons et la peinture, ce projet sera matérialisé ce samedi 5 octobre 2019 à la Halle de la Gombe. </p>
-                <p style="text-align: justify">« Le Soldat du Slam » proposera un répertoire riche en verbes sans oublier la participation de Julie Escoriza, en performance dessinée. Ce qui veut dire que les spectateurs seront triplement gâtés. D’abord les mots, ensuite la musique et les dessins en live pour résumer ce projet « Kinshasa : Histoires de ville »
-                </p>
+                
+        <ul>
+        <li><i class="bi bi-check2-all"></i>
+        <spab> 31 mars 2025 : En collaboration avec la Présidence RDC, le FONAREV et la CIA VAR, performance sur l’appropriation collective du GENOCOST, à Kinshasa au Centre Culturel et Artistique pour les pays d’Afrique centrale et d’Afrique des Grands Lacs. </spab> </li>
+        <li><i class="bi bi-check2-all"></i> <span>5 octobre 2024 : Prestation live Rumba parlée à La Gaîté Lyrique, en marge du XIXè Sommet de la Francophonie (France) par SONY MUSIC</span>.</li>
+        <li><i class="bi bi-check2-all"></i> <span>4 octobre 2024 : Représentation de la RDC au XIXè Sommet de la Francophonie, au Village de la Francophonie 104 Paris (France) sous l’égide du ministère de la culture, arts et patrimoine de la RDC.</span>
+        </li>
+         <li><i class="bi bi-check2-all"></i> <span>5 octobre 2024 : Prestation live Rumba parlée à La Gaîté Lyrique, en marge du XIXè Sommet de la Francophonie (France) par SONY MUSIC</span>
+        </li>
+        <li><i class="bi bi-check2-all"></i> <span>9 août 2024 : Sortie de l’album live de 8 titres Concert Expérience Monsieur PAGNE sur toutes les plateformes de téléchargement légal et en streaming</span>
+        </li>
+                </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/YEKIMA7.jpg" alt="" class="img-fluid">
+                <img src="assets/img/CALENDIER CULTU.jpg" alt="" class="img-fluid">
               </div>
             </div>
           </div><!-- End Tab Content Item -->
@@ -258,25 +314,17 @@ Si non le pays sera mis en veille...</p>
           <div class="tab-pane fade" id="features-tab-2">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                <h3>Neque exercitationem debitis soluta quos debitis quo mollitia officia est</h3>
-                <p>
-                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                  velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                  culpa qui officia deserunt mollit anim id est laborum
-                </p>
-                <p class="fst-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                  magna aliqua.
-                </p>
                 <ul>
-                  <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-                  <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-                  <li><i class="bi bi-check2-all"></i> <span>Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</span></li>
-                  <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>17 février 2024 : L’une des têtes d’affiche pour les 10 ans du Festival AMANI à Goma, aux côtés de TIKEN JAH FAKOLY et FALLY IPUPA. (Evénement reporté).</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>1er décembre 2023 : Prestation semi-live de RUMBA PARLÉE à l’émission J-1 sur Canal + Sport, en France.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>30 novembre 2023 : Passage sur le plateau du Journal TV5 MONDE Afrique pour annoncer la sortie du clip RUMBA PARLÉE -Joindre la hanche à la tête- ainsi que de l’album Monsieur le Poésident, en France.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>10 novembre 2023 : Concert Expérience Monsieur PAGNE, à l’Institut français-Halle de la Gombe à Kinshasa.</span></li>
+                <li><i class="bi bi-check2-all"></i> <span>1 12 et 13 octobre 2023 : Collaboration avec Montreux Comedy Festival comme Membre du jury et Guest pour la grande finale de Mon 1er Montreux Afrique avec Gré-goire Furrer, à l’IF Kinshasa.</span></li>
+                <li><i class="bi bi-check2-all"></i> <span>111 octobre 2023 : Collaboration avec l’UNICEF RDC CONGO autour de la Journée Internationale de la Fille / Prestation, au siège de l’Unicef à Kinshasa</span></li>
                 </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/working-2.jpg" alt="" class="img-fluid">
+                <img src="assets/img/even/FEST%201.jpg" alt="" class="img-fluid">
               </div>
             </div>
           </div><!-- End Tab Content Item -->
@@ -284,24 +332,24 @@ Si non le pays sera mis en veille...</p>
           <div class="tab-pane fade" id="features-tab-3">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                <h3>Voluptatibus commodi ut accusamus ea repudiandae ut autem dolor ut assumenda</h3>
-                <p>
-                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                  velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                  culpa qui officia deserunt mollit anim id est laborum
-                </p>
                 <ul>
-                  <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-                  <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-                  <li><i class="bi bi-check2-all"></i> <span>Provident mollitia neque rerum asperiores dolores quos qui a. Ipsum neque dolor voluptate nisi sed.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Festival Amani (Goma, RDC).</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Festival FIRE (Kinshasa, RDC).</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Festival FESTIRAS (Bukavu, RDC).</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Jazz Kif Festival (Kinshasa, RDC).</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Midem African Forum (Brazzaville, Congo).</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Afropolitain Nomade (Dakar, Sénégal).</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Festival d’humour TOSEKA (Kinshasa).</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>SLAMOUV (Brazzaville, Congo).</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>CONGO na PARIS (Paris, France).</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>LAURACQ (St Étienne, France).</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Prestation au Village de la Francophonie, 104 Paris, XIXème Sommet de la francophonie 2024 (Paris, France)</span></li>
+                  
                 </ul>
-                <p class="fst-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                  magna aliqua.
-                </p>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/working-3.jpg" alt="" class="img-fluid">
+                <img src="assets/img/even/FEST%202.jpg" alt="" class="img-fluid">
+               
               </div>
             </div>
           </div><!-- End Tab Content Item -->
@@ -309,24 +357,15 @@ Si non le pays sera mis en veille...</p>
           <div class="tab-pane fade" id="features-tab-4">
             <div class="row">
               <div class="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-                <h3>Omnis fugiat ea explicabo sunt dolorum asperiores sequi inventore rerum</h3>
-                <p>
-                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                  velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                  culpa qui officia deserunt mollit anim id est laborum
-                </p>
-                <p class="fst-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                  magna aliqua.
-                </p>
+                <h3>Yekima est impliqué dans plusieurs initiatives pour le développement du slam en RDC :</h3>
                 <ul>
-                  <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-                  <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-                  <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>En 2014 et 2015, il co-organise avec l’Institut Français de Kinshasa un Grand Concours de Slam-Poésie Urbaine.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>En 2018, en partenariat avec le Bureau Conjoint des Nations Unies aux Droits de l’Homme (BCNUDH) [archive], il organise un concours national promou vant les Droits humains à travers le slam.</span></li>
+                  <li><i class="bi bi-check2-all"></i> <span>Il anime des ateliers d’écriture et de performance en RDC et pour l’Afrique des Grands Lacs.</span></li>
                 </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/working-4.jpg" alt="" class="img-fluid">
+                <img src="assets/img/salamvouv.jpg" alt="" class="img-fluid">
               </div>
             </div>
           </div><!-- End Tab Content Item -->
@@ -335,13 +374,96 @@ Si non le pays sera mis en veille...</p>
 
       </div>
 
-    </section><!-- /Features Section -->
+    </section><!-- /Features Section --
+
+    <!-- Clients Section -->
+   
+    <!-- Features Section -->
+   <!-- /Features Section -->
 
     <!-- Services 2 Section -->
+      <section id="services-2" class="services-2 section light-background">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2 style="font-family: gobold">Commentaire</h2>
+        <p style="font-family: gobold">Public</p>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+
+        <div class="row gy-4">
+
+          <div class="col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="service-item d-flex position-relative h-100">
+              <i class="bi bi-facebook icon flex-shrink-0"></i>
+              <div>
+                <h4 class="title"><a href="#" class="stretched-link">Mola_Boyika</a></h4>
+                <p class="description">Parmis les meilleurs concerts en terme de scénographie, suite logique, sont spectacle etc... de tous les temps de la RDC.</p>
+              </div>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-md-6" data-aos="fade-up" data-aos-delay="200">
+            <div class="service-item d-flex position-relative h-100">
+              <i class="bi bi-instagram icon flex-shrink-0"></i>
+              <div>
+                <h4 class="title"><a href="#" class="stretched-link">Divine_Kwanzambi</a></h4>
+                <p class="description">Vous êtes une fierté et un modèle pour la jeunesse. Merci pour ce que vous faites pour le Congo et pour la jeunesse congolaise.</p>
+              </div>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-md-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="service-item d-flex position-relative h-100">
+              <i class="bi bi-youtube icon flex-shrink-0"></i>
+              <div>
+                <h4 class="title"><a href="#" class="stretched-link">TontonJiji Jireh Kapila</a></h4>
+                <p class="description">Yekima De Bel Art tu est un génie point... Wauoooowwwwwww mais non non non </p>
+              </div>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-md-6" data-aos="fade-up" data-aos-delay="400">
+            <div class="service-item d-flex position-relative h-100">
+              <i class="bi bi-twitter-x icon flex-shrink-0"></i>
+              <div>
+                <h4 class="title"><a href="#" class="stretched-link">Reagan Kaputa</a></h4>
+                <p class="description">Monsieur le Poésident t'es une richesse</p>
+              </div>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-md-6" data-aos="fade-up" data-aos-delay="500">
+            <div class="service-item d-flex position-relative h-100">
+              <i class="bi bi-instagram icon flex-shrink-0"></i>
+              <div>
+                <h4 class="title"><a href="#" class="stretched-link">ça Passe ou ça Casse</a></h4>
+                <p class="description">ça Passe ou ça Casse Yekima est un vrai telent de slam. </p>
+              </div>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-md-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="service-item d-flex position-relative h-100">
+              <i class="bi bi-facebook icon flex-shrink-0"></i>
+              <div>
+                <h4 class="title"><a href="#" class="stretched-link">Déborah Mutund</a></h4>
+                <p class="description">Que c'est beau mon cher frère. Que Dieu nous donne d'être à la hauteur de ce géant.</p>
+              </div>
+            </div>
+          </div><!-- End Service Item -->
+
+        </div>
+
+      </div>
+
+    </section>
     
 
     <!-- Testimonials Section -->
     <section id="testimonials" class="testimonials section dark-background">
+
 
       <img src="assets/img/YEKIMA8.jpg" class="testimonials-bg" alt="">
 
@@ -349,6 +471,7 @@ Si non le pays sera mis en veille...</p>
 
         <div class="swiper init-swiper">
           <script type="application/json" class="swiper-config">
+          
             {
               "loop": true,
               "speed": 600,
@@ -375,7 +498,7 @@ Si non le pays sera mis en veille...</p>
                 </div>
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Découvrez le SLAM Congolais auteur du tube Les Années Zaïre et écoutez le parler de son écriture, de sa façon de concevoir l'acte créatif. Il animera un atelier sur l'écriture de SLAM ouvert à toutes les plumes.  </span>
+                  <span>La Rumba Parlée est un style musical développé par Yekima De Bel Art, combinant le slam et la rumba congolaise.  </span>
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
               </div>
@@ -402,8 +525,8 @@ Si non le pays sera mis en veille...</p>
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Portfolio</h2>
-        <p>CONSULTEZ NOTRE PORTFOLIO</p>
+        <h2 style= "font-family: gobold">Portfolio</h2>
+        <p style= "font-family: gobold">CONSULTEZ NOTRE PORTFOLIO</p>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -421,13 +544,13 @@ Si non le pays sera mis en veille...</p>
 
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
               <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/IMG_1472.jpg" class="img-fluid" alt="">
+                <img src="assets/img/portfolio/FEST 4.jpg" class="img-fluid" alt="">
               </div>
             </div><!-- End Portfolio Item -->
 
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
               <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/IMG_1473.jpg" class="img-fluid" alt="">
+                <img src="assets/img/portfolio/LA FRANCOPHONIE.jpg" class="img-fluid" alt="">
               </div>
             </div><!-- End Portfolio Item -->
 
@@ -439,7 +562,7 @@ Si non le pays sera mis en veille...</p>
 
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
               <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/yekima.jpg" class="img-fluid" alt="">
+                <img src="assets/img/portfolio/14ed6bfcf850d0c996200beafc272742.jpg" class="img-fluid" alt="">
               </div>
             </div><!-- End Portfolio Item -->
 
@@ -451,7 +574,7 @@ Si non le pays sera mis en veille...</p>
 
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
               <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/IMG_1476.jpg" class="img-fluid" alt="">
+                <img src="assets/img/portfolio/FEST 2.jpg" class="img-fluid" alt="">
               </div>
             </div><!-- End Portfolio Item -->
 
@@ -463,7 +586,7 @@ Si non le pays sera mis en veille...</p>
 
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
               <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/yekima33.jpg" class="img-fluid" alt="">
+                <img src="assets/img/portfolio/Sans titre-4.jpg" class="img-fluid" alt="">
               </div>
             </div><!-- End Portfolio Item -->
 
@@ -475,7 +598,7 @@ Si non le pays sera mis en veille...</p>
 
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
               <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/IMG_1478.jpg" class="img-fluid" alt="">
+                <img src="assets/img/portfolio/FEST 3.jpg" class="img-fluid" alt="">
               </div>
             </div><!-- End Portfolio Item -->
 
@@ -500,12 +623,11 @@ Si non le pays sera mis en veille...</p>
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Contact</h2>
-        <p>me joindre</p>
+        <h2 style= "font-family: gobold">Contact</h2>
+        <p style= "font-family: gobold">Me Joindre</p>
       </div><!-- End Section Title -->
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
-
         <div class="row gy-4">
           <div class="col-lg-6 ">
             <div class="row gy-4">
@@ -513,7 +635,7 @@ Si non le pays sera mis en veille...</p>
               <div class="col-lg-12">
                 <div class="info-item d-flex flex-column justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="200">
                   <i class="bi bi-geo-alt"></i>
-                  <h3>Address</h3>
+                  <h3>Addresse</h3>
                   <p>33, Avenue de la Gombe,Commune de la Gombe</p>
                 </div>
               </div><!-- End Info Item -->
@@ -542,19 +664,19 @@ Si non le pays sera mis en veille...</p>
               <div class="row gy-4">
 
                 <div class="col-md-6">
-                  <input type="text" name="name" class="form-control" placeholder="Votre Nom" required="">
+                  <input type="text" name="nom" class="form-control"  placeholder="Votre Nom" required="">
                 </div>
 
                 <div class="col-md-6 ">
-                  <input type="email" class="form-control" name="email" placeholder="Email" required="">
+                  <input type="text" name="mail" class="form-control" name="mail"  placeholder="Mail" required="">
                 </div>
 
                 <div class="col-md-12">
-                  <input type="text" class="form-control" name="subject" placeholder="Sujette" required="">
+                  <input type="text" class="form-control" name="objet"  placeholder="Objet" required="">
                 </div>
 
                 <div class="col-md-12">
-                  <textarea class="form-control" name="message" rows="4" placeholder="Message" required=""></textarea>
+                  <textarea class="form-control" name="message" rows="4"  placeholder="Message" required=""></textarea>
                 </div>
 
                 <div class="col-md-12 text-center">
@@ -637,6 +759,7 @@ Si non le pays sera mis en veille...</p>
 
   <!-- Scroll Top -->
   <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+      <i class="fa-solid fa-reflect-vertical"></i>
 
   <!-- Preloader -->
   <div id="preloader"></div>
